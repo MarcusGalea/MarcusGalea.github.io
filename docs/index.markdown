@@ -22,4 +22,4 @@ The Team- Marcus Galea Jacobsen  s194336, Lidia Perpiñian s217151, Paraskevi Ke
 - [6. Discussion. Think critically about your creation](#analysis5)
 - [7. Contributions. Who did what?](#analysis6)
 
-[Link to HTML file](https://github.com/MarcusGalea/MarcusGalea.github.io/tree/master/subtheme.html)
+![Link to HTML file](https://github.com/MarcusGalea/MarcusGalea.github.io/tree/master/subtheme.html)
