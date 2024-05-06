@@ -13,6 +13,7 @@ The Team- Marcus Galea Jacobsen  s194336, Lidia Perpiñian s217151, Paraskevi Ke
 </small>
 
 ## Table of Contents
+
 - [1.Motivation](#motivation)
 - [2. Basic stats. Let's understand the dataset better](#2-basic-stats-lets-understand-the-dataset-better)
 - [3. Data Analysis](#analysis)
@@ -20,3 +21,5 @@ The Team- Marcus Galea Jacobsen  s194336, Lidia Perpiñian s217151, Paraskevi Ke
 - [5. Visualizations.](#analysis4)
 - [6. Discussion. Think critically about your creation](#analysis5)
 - [7. Contributions. Who did what?](#analysis6)
+
+[Link to HTML file](https://github.com/MarcusGalea/MarcusGalea.github.io/tree/master/subtheme.html)
