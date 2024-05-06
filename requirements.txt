@@ -1,0 +1,6 @@
+requests
+tqdm
+openpyxl
+import-ipynb
+svglib
+bs4
