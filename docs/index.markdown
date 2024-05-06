@@ -23,3 +23,4 @@ The Team- Marcus Galea Jacobsen  s194336, Lidia Perpiñian s217151, Paraskevi Ke
 - [7. Contributions. Who did what?](#analysis6)
 
 https://github.com/MarcusGalea/MarcusGalea.github.io/tree/master/subtheme.html
+{% include subtheme.html %}
