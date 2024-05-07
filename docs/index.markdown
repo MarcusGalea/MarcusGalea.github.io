@@ -50,12 +50,14 @@ If we look into the top 20 subthemes with the highest difference between owned a
 
 **How many realizes LEGO have per year?**
 
-It is an interesting factor to take into consideration. How many chances per year could I have a new product? In the following figure, we analyze the information from 2018 until 2022 and cross it with the most popular subtheme, the Ultimate Collector Series. During all the years, the only months that have released products are May (5), June (6), and July (7). Now you know when to pay attention to the LEGO website to make your purchases.
+It is an interesting factor to take into consideration. How many chances per year could I have a new product? In the following figure, we analyze the information from 2018 until 2022 and cross it with the most popular subtheme, the Ultimate Collector Series.
 
 {% include calendar.html %}
 
 <center><small>Figure 4: comparative calendar graph between the subtheme Ultimate Collector Series and released dates </small></center>
 <br>
+
+As we can see in the figure, the only months that have released products are May (5), June (6), and July (7). However, there are fewer releases each year than in the previous one. According to our analysis, 2018 is the year with the most releases. Now you know when to pay attention to the LEGO website to make your purchases.
 
 **How is my time window?**
 
