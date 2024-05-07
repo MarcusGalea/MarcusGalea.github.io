@@ -53,9 +53,9 @@ def preprocess_data(df: pd.DataFrame, include_monthly = False) -> pd.DataFrame:
     conversion_to_euro = {"US": 0.85, "UK": 1.17, "CA": 0.68, "PL": 0.23, "DE": 1}
     #date columns
     for country in countries:
-        df[country + "_retail_price"] = df[country + "_retail_price"] * conversion_to_euro[country]
+        df[country + "_retailPrice"] = df[country + "_retailPrice"] * conversion_to_euro[country]
         if country == "PL":
-            df["PriceMonthPLN"] = df["PriceMonthPLN"] * conversion_to_euro[country]
+            df["PriceMonthPLN"] = df["PriceMonthPLN"] * conversion_to_euro["PL"]
             
             
     #drop column 'PriceMonthPLN' and urlRetailPriceHistoryPLN
