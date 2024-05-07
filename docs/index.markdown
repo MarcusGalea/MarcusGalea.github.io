@@ -41,8 +41,7 @@ If we look into the top 20 subthemes with the highest difference between owned a
 
 **How much can a product's price change?**
 
-Let's see it with the example of the most wanted subtheme, the Ultimate Collector Series, inside the Star Wars theme.
-We can take the example of the [Death Star II (10143)](https://www.brickeconomy.com/set/10143-1/lego-star-wars-death-star-ii), inside the subtheme Ultimate Collector Series, that was realized in 2005, and it's now retired and has an annual growth of 10% on average.
+Let's see it with the example of the most wanted subtheme, the Ultimate Collector Series, inside the Star Wars theme. We can take the example of the [Assault on Hoth](https://www.brickeconomy.com/set/75098-1/lego-star-wars-assault-on-hoth) or [Slave I](https://www.brickeconomy.com/set/75060-1/lego-star-wars-slave-i), inside the subtheme Ultimate Collector Series, they were realized in 2016 and 2015 respectively. Now, both are retired, with an average annual growth of 7.5% and 17.5%.
 <br>
 {% include prices.html %}
 
