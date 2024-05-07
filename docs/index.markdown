@@ -13,6 +13,8 @@ Have you ever come across statements like: ["LEGO sets have proven to be a stabl
 <div style="text-align:center">
     <img src="https://logos-world.net/wp-content/uploads/2020/09/LEGO-Logo.png" width="200" height="125">
 </div>
+<center><small>Figure 1: LEGO Logo</small></center>
+<br>
 
 We're diving headfirst into a massive dataset, which contains almost 2000 Lego sets from 2018 to 2023, comparing different LEGO products across different time periods and countries, including Germany, Canada, Poland, the United Kingdom, and the United States. We're uncovering insights into product demand, ownership trends, release timings throughout the year, and the duration a product remains available at the official LEGO store before hitting retail shelves. Join us on this adventure as we uncover fascinating patterns in this incredible game. Who knows, you might just discover the next set that proves to be a safe investment!
 
@@ -29,6 +31,8 @@ If we compare popularity between themes, we can see how we have a main one. It b
 put theme graph
 {% include theme.html %}
 
+<center><small>Figure 2: comparative graph between ownedyBy and wantedBy themes</small></center>
+<br>
 <br>
 text 1
 introplots
@@ -39,7 +43,7 @@ If we take a look into the top 20 subthemes that have the highest difference bet
 
 {% include subtheme.html %}
 
-<center><small>Figure 2: comparative graph between ownedyBy and wantedBy top 20 subthemes</small></center>
+<center><small>Figure 3: comparative graph between ownedyBy and wantedBy top 20 subthemes</small></center>
 <br>
 
 text 3 subthemes calendar
