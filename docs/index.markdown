@@ -22,9 +22,14 @@ Course responsible: Sune Lehmann Jørgensen_ <br>
 _DTU - Technical University of Denmark_
 _Course responsible: Sune Lehmann Jørgensen_ <br>
 The Team- Marcus Galea Jacobsen  s194336, Lidia Perpiñian s217151, Paraskevi Keramari s230249 <br>
+</small>
 
 <br>
 <br>
 
+<small>
 Contribution table:
+- task 1
+- task 2
+- task 3
 </small>
