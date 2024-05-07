@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-#title: "Cracking the Code: What Makes a LEGO Set Sell?"
+title: "Cracking the Code: What Makes a LEGO Set Sell?"
 email:  Marcus Galea Jacobsen s194336@dtu.dk
 email:  Lidia Perpiñán Hinarejos s217151@dtu.dk
 email:  Paraskevi Keramari s230249@dtu.dk
