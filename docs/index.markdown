@@ -85,8 +85,8 @@ Can the price of a LEGO set increase that much? Let's see it with the example of
 (Select and deselect by clicking on the legend on the top right part of the graph)
 </small></center>
 <br>
-<br>
 
+[Figure 6](figure-6)
 This trend of price escalation and increased demand is not surprising, especially within the Star Wars theme. The unique combination of LEGO's enduring popularity and the timeless appeal of the Star Wars saga creates a potent mix that drives desirability. While this phenomenon is particularly pronounced in the Ultimate Collector Series, it's worth noting that similar trends can be observed across other LEGO themes. The magnetism of collecting, the nostalgia factor, and the limited availability of certain sets contribute to the rising prices and fervent popularity, making them not just toys or collector's items but valuable investments.
 <br>
 <br>
