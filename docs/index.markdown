@@ -39,6 +39,15 @@ We wanted to analyze the subthemes and discover which ones are the most wanted c
 <br>
 If we look into the top 20 subthemes with the highest difference between owned and wanted, we can see how the top three are inside Star Wars theme, such as the Ultimate Collector Series, Episode I, or The Clone Wars.
 
+**How many chances do I have per year to buy a new product?**
+
+txt
+
+{% include calender_2018.html %}
+
+<center><small>Figure x: comparative graph </small></center>
+<br>
+
 **How much can a product's price change?**
 
 Let's see it with the example of the most wanted subtheme, the [Ultimate Collector Series](https://www.brickeconomy.com/sets/theme/star-wars/subtheme/ultimate-collector-series), inside the Star Wars theme. We can take the example of the [Assault on Hoth](https://www.brickeconomy.com/set/75098-1/lego-star-wars-assault-on-hoth) or [Slave I](https://www.brickeconomy.com/set/75060-1/lego-star-wars-slave-i), inside the subtheme Ultimate Collector Series, they were realized in 2016 and 2015 respectively. Now, both are retired, with an average annual growth of 7.5% and 17.5%.
