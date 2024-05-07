@@ -13,11 +13,16 @@ We're diving headfirst into a massive dataset, which contains almost 2000 Lego s
 
 ![alt text1](https://github.com/MarcusGalea/MarcusGalea.github.io/blob/master/Lego-Logo.png)
 
+If we compare popularity between themes, we can see how we have a main one. It being Star Wars
+
+https://github.com/MarcusGalea/MarcusGalea.github.io/tree/master/theme.html
+{% include theme.html %}
+
 <br>
 text 1
 introplots
 <br>
-text 2
+If we take a look into the top 20 subthemes that have the highest difference between ownedyBy and wantedBy, we can see how the some of the top ones are inside this theme, such as: Ultimate Collector Series, Episode I and II,
 
 https://github.com/MarcusGalea/MarcusGalea.github.io/tree/master/subtheme.html
 {% include subtheme.html %}
