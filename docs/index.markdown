@@ -34,7 +34,7 @@ text 3 subthemes calendar
 plot
 <br>
 text 4 example of an specific market
-polish prices
+polish prices - going up - going down
 plot
 
 <br>
