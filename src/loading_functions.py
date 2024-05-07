@@ -42,7 +42,7 @@ def preprocess_data(df: pd.DataFrame, include_monthly = False) -> pd.DataFrame:
     df = df.dropna(subset=care_about)
     #only keep the data that has a rating
     df = df[df.rating != 0]
-    date_columns = ["date" in column for column in df.columns]
+    date_columns = [("date" in column or "Date" in column) for column in df.columns]
     #split the date columns to only keep the date, and not the time
     df[df.columns[date_columns]] = df[df.columns[date_columns]].applymap(lambda x: x.split("T")[0])
     #change date columns to datetime
