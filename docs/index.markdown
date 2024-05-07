@@ -52,7 +52,7 @@ If we look into the top 20 subthemes, we can see how the top three are inside St
 
 **How many realizes LEGO have per year?**
 
-It is an interesting factor to take into consideration. How many chances per year could I have a new product? In the following figure, we analyze the information from 2018 until 2022 and cross it with the most popular subtheme, the Ultimate Collector Series.
+It is an interesting factor to take into consideration. How many chances per year could I have a new product? In the following figure, we analyze the information from 2018 until 2022 and cross it with the most popular subtheme, the Ultimate Collector Series. We're also restricting ourselves to only consider subthemes with more than 7 releases at any given months, to really understand when the big spikes in releases occour.
 
 {% include calendar.html %}
 
@@ -72,7 +72,6 @@ Another interesting factor to take into account is the amount of time you have t
 <br>
 
 Observing the graph, we can see how the average to buy a product is around 2-3 years, with the clear exception of [Death Star](https://www.brickeconomy.com/set/10188-1/lego-star-wars-death-star), which was realized in 2008 and was available for many years.
-
 <br>
 <br>
 
@@ -90,7 +89,8 @@ Let's see it with the example of the most wanted subtheme, the [Ultimate Collect
 
 ## Conclusion
 
-Let's wrap this up. If you're eyeing LEGO sets as your next big investment move, you're into something cool, especially with those sets that have a pop culture twist. Think Star Wars – it's not just about nostalgia; it's about smart money moves. Remember, you've typically got a 2 to 3-year window to grab these sets at their original price before they become rare gems. And guess what? The prime time to watch out for these releases is between May and July each year. Now, let's talk about the price climb. Over time, some of these sets start to skyrocket in value. Imagine grabbing a set, sitting tight, and then watching its price go up like a rocket. So, if you're all about making smart picks that blend your love for pop culture with a keen investment eye, keeping these pointers in mind could lead you to some pretty exciting scores. Happy LEGO hunting!
+Let's wrap this up. If you're eyeing LEGO sets as your next big investment move, you're into something cool, especially with those sets that have a pop culture twist. Think Star Wars – it's not just about nostalgia; it's about smart money moves. Remember, you've typically got a 2 to 3-year window to grab these sets at their original price before they become rare gems. And guess what? The prime time to watch out for these releases is between May and July each year. <br>
+Now, let's talk about the price climb. Over time, some of these sets start to skyrocket in value. Imagine grabbing a set, sitting tight, and then watching its price go up like a rocket. So, if you're all about making smart picks that blend your love for pop culture with a keen investment eye, keeping these pointers in mind could lead you to some pretty exciting scores. Happy LEGO hunting!
 
 <br>
 <br>
