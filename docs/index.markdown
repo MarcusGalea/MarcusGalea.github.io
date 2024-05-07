@@ -44,7 +44,10 @@ If we look into the top 20 subthemes with the highest difference between owned a
 Let's see it with the example of the most wanted subtheme, the Ultimate Collector Series, inside the Star Wars theme.
 We can take the example of the [Death Star II (10143)](https://www.brickeconomy.com/set/10143-1/lego-star-wars-death-star-ii), inside the subtheme Ultimate Collector Series, that was realized in 2005, and it's now retired and has an annual growth of 10% on average.
 <br>
+{% include prices.html %}
 
+<center><small>Figure 4: comparative price graph of the subtheme Ultimate Collector Series</small></center>
+<br>
 text 3 subthemes calendar or not
 plot
 <br>
