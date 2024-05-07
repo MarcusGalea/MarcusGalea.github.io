@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Cracking the Code: What Makes a LEGO Set Sell?"
-email:  Marcus Galea Jacobsen s194336@dtu.dk
-email:  Lidia Perpiñán Hinarejos s217151@dtu.dk
-email:  Paraskevi Keramari s230249@dtu.dk
+email:  Marcus Galea Jacobsen s194336@dtu.dk,
+Lidia Perpiñán Hinarejos s217151@dtu.dk,
+Paraskevi Keramari s230249@dtu.dk
 
 description: >- # this means to ignore newlines until "baseurl:"
   Project developed for the course Social Graphs and Interactions, DTU. The project aims to analyze the factors that influence the sales of LEGO sets.
