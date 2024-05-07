@@ -9,7 +9,7 @@ layout: home
 
 # Introduction
 
-hello
+Have you ever heard statements like: ["LEGO sets have proven to be a stable investment over time, with average returns of 10% annually, which is higher than stocks, bonds, gold, and many other collectible items. When it comes to investing in LEGO sets, there are two main motivations: collecting for passion and collecting for profit"](https://www.nerdcube.eu/guides/investing-in-lego/#:~:text=some%20extra%20cash.-,LEGO%20sets%20have%20proven%20to%20be%20a%20stable%20investment%20over,passion%20and%20collecting%20for%20profit) or ["Investing in Lego is more lucrative than gold, art and wine."](https://www.theguardian.com/lifeandstyle/2021/dec/10/investing-in-lego-more-lucrative-than-gold-study-suggests). Let's analyse if what they say it's true.
 
 <small>
 Course responsible: Sune Lehmann Jørgensen_ <br>
