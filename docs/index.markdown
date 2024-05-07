@@ -45,9 +45,9 @@ If we look into the top 20 subthemes with the highest difference between owned a
 
 **How many chances do I have per year to buy a new product?**
 
-txt
+It is an interesting factor to take into consideration. How many chances per year could I have a new product? In the analyzed data, we have the information from 2018 until 2022. During all the years, the only months that have been realized are May (5), June (6), and July (7).
 
-{% include calender_2018.html %}
+{% include calendar.html %}
 
 <center><small>Figure 4: comparative graph </small></center>
 <br>
