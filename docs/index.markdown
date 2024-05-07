@@ -13,11 +13,11 @@ We're diving headfirst into a massive dataset, which contains almost 2000 Lego s
 
 <!--![alt text][logo] trial 47430238575 to put an image
 
-[logo]: C:\DTU\Social_Data\project\MarcusGalea.github.io\Logo.png "Logo Title Text 2" -->
+[logo]: C:\DTU\Social_Data\project\MarcusGalea.github.io\Logo.png "Logo Title Text 2"
 
-![Alt text](https://github.com/MarcusGalea/MarcusGalea.github.io/blob/6e62815e484502c936f89d37d1bc4436021465cf/Lego-Logo.png)
+![Alt text](https://github.com/MarcusGalea/MarcusGalea.github.io/blob/6e62815e484502c936f89d37d1bc4436021465cf/Lego-Logo.png) -->
 
-hola
+![Logo](Logo.png)
 
 If we compare popularity between themes, we can see how we have a main one. It being Star Wars, that has [937](https://www.brickeconomy.com/sets/theme/star-wars) different sets inside.
 
