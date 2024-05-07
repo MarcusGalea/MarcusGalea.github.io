@@ -24,11 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Project developed for the course Social Graphs and Interactions, DTU. The project aims to analyze the factors that influence the sales of LEGO sets.
   Course: 02806 Social data analysis and visualization Spring 24
   Course responsible: Sune Lehmann Jørgensen
-  University: Technical University of Denmark 
-  The Team: Marcus Galea Jacobsen, Lidia Perpiñian, Paraskevi Keramari
-
-
-The Team- Marcus Galea Jacobsen  s194336, Lidia Perpiñian s217151, Paraskevi Keramari s230249 <br>
+  University: Technical University of Denmark
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
