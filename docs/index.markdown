@@ -82,10 +82,7 @@ Let's see it with the example of the most wanted subtheme, the [Ultimate Collect
 
 # Conclusion
 
-take into account:
-which subtheme - pop culture rocks
-time- for how long it is available and period of the year that it is available
-how it price can go up through time
+Let's wrap this up. If you're eyeing LEGO sets as your next big investment move, you're into something cool, especially with those sets that have a pop culture twist. Think Star Wars – it's not just about nostalgia; it's about smart money moves. Remember, you've typically got a 2 to 3-year window to grab these sets at their original price before they become rare gems. And guess what? The prime time to watch out for these releases is between May and July each year. Now, let's talk about the price climb. Over time, some of these sets start to skyrocket in value. Imagine grabbing a set, sitting tight, and then watching its price go up like a rocket. So, if you're all about making smart picks that blend your love for pop culture with a keen investment eye, keeping these pointers in mind could lead you to some pretty exciting scores. Happy LEGO hunting!
 
 <br>
 <br>
