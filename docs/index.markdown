@@ -18,6 +18,7 @@ Have you ever come across statements like: ["LEGO sets have proven to be a stabl
 <br>
 We're diving headfirst into a massive dataset, which contains almost 2000 Lego sets from 2018 to 2023, comparing different LEGO products across different time periods and countries, including Germany, Canada, Poland, the United Kingdom, and the United States. We're uncovering insights into product demand, ownership trends, release timings throughout the year, and the duration a product remains available at the official LEGO store before hitting retail shelves. Join us on this adventure as we uncover fascinating patterns in this incredible game. Who knows, you might just discover the next set that proves to be a safe investment!
 <br>
+<br>
 
 ## Data Analysis
 
@@ -81,6 +82,7 @@ Let's see it with the example of the most wanted subtheme, the [Ultimate Collect
 <center><small>Figure 6: interactive price graph of the subtheme Ultimate Collector Series<br>
 (Select and deselect by clicking on the legend on the top right part of the graph)
 </small></center>
+<br>
 <br>
 
 ## Conclusion
