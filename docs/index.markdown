@@ -11,7 +11,8 @@ Have you ever heard statements like: ["LEGO sets have proven to be a stable inve
 
 https://github.com/MarcusGalea/MarcusGalea.github.io/tree/master/subtheme.html
 {% include subtheme.html %}
-Figure 2: comparative graph between ownedyBy and wantedBy top 20 subthemes
+
+<center><small>Figure 2: comparative graph between ownedyBy and wantedBy top 20 subthemes</small></center>
 
 <small>
 Course responsible: Sune Lehmann Jørgensen_ <br>
