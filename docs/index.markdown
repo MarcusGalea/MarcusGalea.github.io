@@ -23,7 +23,7 @@ We're diving headfirst into a massive dataset, which contains almost 2000 Lego s
 
 **How popular can a set be?**
 
-If we compare the popularity of themes, we can see how we have a main one. It is [Star Wars](https://www.brickeconomy.com/sets/theme/star-wars), which has 49 subthemes and 937 different sets inside, and there is a considerable difference between the number of people who own a product of this theme and the number of people who want it. Let's see if this insight also corresponds with the following subtheme analysis.
+How can you find some of these gems? Let's start talking about popularity. If we compare the different themes, we can see how we have a main one. It is [Star Wars](https://www.brickeconomy.com/sets/theme/star-wars), which has 49 subthemes and 937 different sets inside, and there is a considerable difference between the number of people who own a product of this theme and the number of people who want it. Let's see if this insight also corresponds with the following subtheme analysis.
 
 {% include theme.html %}
 
@@ -58,6 +58,7 @@ It is an interesting factor to take into consideration. How many chances per yea
 <br>
 
 As we can see in the figure, the only months that have released products are May (5), June (6), and July (7). However, there are fewer releases each year than in the previous one. According to our analysis, 2018 is the year with the most releases. Now you know when to pay attention to the LEGO website to make your purchases.
+<br>
 
 **How is my time window?**
 
