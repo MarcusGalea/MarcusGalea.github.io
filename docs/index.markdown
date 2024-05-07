@@ -5,7 +5,7 @@
 layout: home
 ---
 
-## LEARN HOW TO BUY LEGO
+## Cracking the Code: What Makes a LEGO Set Sell?
 
 # Introduction
 
