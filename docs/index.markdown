@@ -44,6 +44,8 @@ If we look into the top 20 subthemes with the highest difference between owned a
 txt
 
 {% include calender_2018.html %}
+{% include calender_2019.html %}
+{% include calender_2020.html %}
 
 <center><small>Figure x: comparative graph </small></center>
 <br>
