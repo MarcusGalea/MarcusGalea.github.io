@@ -19,11 +19,13 @@ We're diving headfirst into a massive dataset, which contains almost 2000 Lego s
 
 **How popular can a set be?**
 
-If we compare the popularity of themes, we can see how we have a main one. It is [Star Wars](https://www.brickeconomy.com/sets/theme/star-wars), which has 49 subthemes and 937 different sets inside, and there is a considerable difference between the number of people who own a product of this theme and the number of people who want it.
+If we compare the popularity of themes, we can see how we have a main one. It is [Star Wars](https://www.brickeconomy.com/sets/theme/star-wars), which has 49 subthemes and 937 different sets inside, and there is a considerable difference between the number of people who own a product of this theme and the number of people who want it. Let's see if this insight also corresponds with the following subtheme analysis.
 
 {% include theme.html %}
 
-<center><small>Figure 2: interactive graph between ownedyBy and wantedBy themes</small></center>
+<center><small>Figure 2: interactive graph between ownedyBy and wantedBy themes <br>
+(Select and deselect by clicking on the legend on the top right part of the graph)
+</small></center>
 <br>
 <br>
 
@@ -35,7 +37,9 @@ We wanted to analyze the subthemes and discover which ones are the most wanted c
 
 {% include subtheme.html %}
 
-<center><small>Figure 3: interactive graph between ownedyBy and wantedBy top 20 subthemes</small></center>
+<center><small>Figure 3: interactive graph between ownedyBy and wantedBy top 20 subthemes <br>
+(Select and deselect by clicking on the legend on the top right part of the graph)
+</small></center>
 <br>
 If we look into the top 20 subthemes with the highest difference between owned and wanted, we can see how the top three are inside Star Wars theme, such as the Ultimate Collector Series, Episode I, or The Clone Wars.
 
