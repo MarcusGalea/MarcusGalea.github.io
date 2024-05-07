@@ -4,7 +4,7 @@
 
 layout: home
 ---
-
+# 
 # Introduction
 
 Have you ever come across statements like: ["LEGO sets have proven to be a stable investment over time, with average returns of 10% annually, which is higher than stocks, bonds, gold, and many other collectible items."](https://www.nerdcube.eu/guides/investing-in-lego/#:~:text=some%20extra%20cash.-,LEGO%20sets%20have%20proven%20to%20be%20a%20stable%20investment%20over,passion%20and%20collecting%20for%20profit) or perhaps you've heard the bold claim that ["Investing in Lego is more lucrative than gold, art and wine."](https://www.theguardian.com/lifeandstyle/2021/dec/10/investing-in-lego-more-lucrative-than-gold-study-suggests). These intriguing snippets certainly catch our eye, making us wonder: are these claims brick-solid or just plastic fantastic? Let's dive in and crack the code on whether LEGO sets truly hold the keys to financial success.
