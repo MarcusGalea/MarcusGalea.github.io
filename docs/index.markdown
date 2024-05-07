@@ -26,9 +26,6 @@ If we compare popularity between themes, we can see how we have a main one. It b
 <center><small>Figure 2: comparative graph between ownedyBy and wantedBy themes</small></center>
 <br>
 <br>
-text 1
-introplots
-<br>
 If we take a look into the top 20 subthemes that have the highest difference between ownedyBy and wantedBy, we can see how the some of the top ones are inside this theme, such as: Ultimate Collector Series, Episode I and II or The Clone Wars
 
  <!-- https://github.com/MarcusGalea/MarcusGalea.github.io/tree/master/subtheme.html -->
