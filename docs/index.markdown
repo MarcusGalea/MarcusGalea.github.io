@@ -5,10 +5,6 @@
 layout: home
 ---
 
-## LEARN HOW TO BUY LEGO
-
-# Introduction
-
 <small>
 Course responsible: Sune Lehmann Jørgensen_ <br>
 _DTU - Technical University of Denmark_
@@ -26,4 +22,5 @@ The Team- Marcus Galea Jacobsen  s194336, Lidia Perpiñian s217151, Paraskevi Ke
 - [6. Discussion. Think critically about your creation](#analysis5)
 - [7. Contributions. Who did what?](#analysis6)
 
-![Link to HTML file](https://github.com/MarcusGalea/MarcusGalea.github.io/tree/master/subtheme.html)
+https://github.com/MarcusGalea/MarcusGalea.github.io/tree/master/subtheme.html
+{% include subtheme.html %}
