@@ -17,8 +17,9 @@ We're diving headfirst into a massive dataset, which contains almost 2000 Lego s
 
 ![Alt text](https://github.com/MarcusGalea/MarcusGalea.github.io/blob/6e62815e484502c936f89d37d1bc4436021465cf/Lego-Logo.png) -->
 
-<!--![Alt text](https://1000logos.net/wp-content/uploads/2017/03/Lego-Logo-1972.png) -->
-<img src="/docs/Logo.png" width="400" height="500">
+![Alt text](https://www.logodesignlove.com/wp-content/uploads/2017/07/lego-logo-13.jpg)
+
+<!-- <img src="/docs/Logo.png" width="400" height="500"> -->
 
 If we compare popularity between themes, we can see how we have a main one. It being Star Wars, that has [937](https://www.brickeconomy.com/sets/theme/star-wars) different sets inside.
 
