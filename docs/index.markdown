@@ -28,6 +28,7 @@ If we compare the popularity of themes, we can see how we have a main one. It is
 <br>
 
 **Which subthemes would be the most wanted?**
+
 We wanted to analyze the subthemes and discover which ones are the most wanted compared to the number of people who own them. These parameters could potentially increase the price of a particular set in the future.
 
  <!-- https://github.com/MarcusGalea/MarcusGalea.github.io/tree/master/subtheme.html -->
@@ -36,7 +37,13 @@ We wanted to analyze the subthemes and discover which ones are the most wanted c
 
 <center><small>Figure 3: comparative graph between ownedyBy and wantedBy top 20 subthemes</small></center>
 <br>
-If we look into the top 20 subthemes with the highest difference between owned and wanted, we can see how some of the top ones are inside this theme, such as the Ultimate Collector Series, Episodes I and II, or The Clone Wars.
+If we look into the top 20 subthemes with the highest difference between owned and wanted, we can see how the top three are inside Star Wars theme, such as the Ultimate Collector Series, Episode I, or The Clone Wars.
+
+**How much can a product's price change?**
+
+Let's see it with the example of the most wanted subtheme, the Ultimate Collector Series, inside the Star Wars theme.
+We can take the example of the [Death Star II (10143)](https://www.brickeconomy.com/set/10143-1/lego-star-wars-death-star-ii), inside the subtheme Ultimate Collector Series, that was realized in 2005, and it's now retired and has an annual growth of 10% on average.
+<br>
 
 text 3 subthemes calendar or not
 plot
