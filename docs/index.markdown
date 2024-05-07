@@ -77,13 +77,17 @@ Observing the graph, we can see how the average to buy a product is around 2-3 y
 
 **How much can a product's price change?**
 
-Let's see it with the example of the most wanted subtheme, the [Ultimate Collector Series](https://www.brickeconomy.com/sets/theme/star-wars/subtheme/ultimate-collector-series), inside the Star Wars theme. We can take the example of the [Assault on Hoth](https://www.brickeconomy.com/set/75098-1/lego-star-wars-assault-on-hoth) or [Slave I](https://www.brickeconomy.com/set/75060-1/lego-star-wars-slave-i), inside the subtheme Ultimate Collector Series, they were realized in 2016 and 2015 respectively. Now, both are retired, with an average annual growth of 7.5% and 17.5%.
+Can the price of a LEGO set increase that much? Let's see it with the example of the most wanted subtheme, the [Ultimate Collector Series](https://www.brickeconomy.com/sets/theme/star-wars/subtheme/ultimate-collector-series), inside the Star Wars theme. We can take the example of the [Assault on Hoth](https://www.brickeconomy.com/set/75098-1/lego-star-wars-assault-on-hoth) or [Slave I](https://www.brickeconomy.com/set/75060-1/lego-star-wars-slave-i), inside the subtheme Ultimate Collector Series, they were realized in 2016 and 2015 respectively. Now, both are retired, with an average annual growth of 7.5% and 17.5%.
 <br>
 {% include prices.html %}
 
 <center><small>Figure 6: interactive price graph of the subtheme Ultimate Collector Series<br>
 (Select and deselect by clicking on the legend on the top right part of the graph)
 </small></center>
+<br>
+<br>
+
+This trend of price escalation and increased demand is not surprising, especially within the Star Wars theme. The unique combination of LEGO's enduring popularity and the timeless appeal of the Star Wars saga creates a potent mix that drives desirability. While this phenomenon is particularly pronounced in the Ultimate Collector Series, it's worth noting that similar trends can be observed across other LEGO themes. The magnetism of collecting, the nostalgia factor, and the limited availability of certain sets contribute to the rising prices and fervent popularity, making them not just toys or collector's items but valuable investments.
 <br>
 <br>
 
