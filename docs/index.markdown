@@ -17,6 +17,8 @@ We're diving headfirst into a massive dataset, which contains almost 2000 Lego s
 
 ![Alt text](https://github.com/MarcusGalea/MarcusGalea.github.io/blob/6e62815e484502c936f89d37d1bc4436021465cf/Lego-Logo.png)
 
+hola
+
 If we compare popularity between themes, we can see how we have a main one. It being Star Wars, that has [937](https://www.brickeconomy.com/sets/theme/star-wars) different sets inside.
 
 put theme graph
