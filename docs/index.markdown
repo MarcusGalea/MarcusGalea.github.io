@@ -19,7 +19,7 @@ We're diving headfirst into a massive dataset, which contains almost 2000 Lego s
 
 **How popular can a set be?**
 
-If we compare popularity between themes, we can see how we have a main one. It being Star Wars, that has [937](https://www.brickeconomy.com/sets/theme/star-wars) different sets inside.
+If we compare popularity between themes, we can see how we have a main one. It being [Star Wars] (https://www.brickeconomy.com/sets/theme/star-wars), that has 937 different sets inside.
 
 {% include theme.html %}
 
