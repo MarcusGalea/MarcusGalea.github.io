@@ -19,6 +19,8 @@ Have you ever come across statements like: ["LEGO sets have proven to be a stabl
 We're diving headfirst into a massive dataset, which contains almost 2000 Lego sets from 2018 to 2023, comparing different LEGO products across different time periods and countries, including Germany, Canada, Poland, the United Kingdom, and the United States. We're uncovering insights into product demand, ownership trends, release timings throughout the year, and the duration a product remains available at the official LEGO store before hitting retail shelves. Join us on this adventure as we uncover fascinating patterns in this incredible game. Who knows, you might just discover the next set that proves to be a safe investment!
 <br>
 
+# Data Analysis
+
 **How popular can a set be?**
 
 If we compare the popularity of themes, we can see how we have a main one. It is [Star Wars](https://www.brickeconomy.com/sets/theme/star-wars), which has 49 subthemes and 937 different sets inside, and there is a considerable difference between the number of people who own a product of this theme and the number of people who want it. Let's see if this insight also corresponds with the following subtheme analysis.
@@ -46,9 +48,9 @@ We wanted to analyze the subthemes and discover which ones are the most wanted c
 If we look into the top 20 subthemes with the highest difference between owned and wanted, we can see how the top three are inside Star Wars theme, such as the Ultimate Collector Series, Episode I, or The Clone Wars.
 <br>
 
-**How many chances do I have per year to buy a new product?**
+**How many realizes LEGO have per year?**
 
-It is an interesting factor to take into consideration. How many chances per year could I have a new product? In the analyzed data, we have the information from 2018 until 2022. During all the years, the only months that have been released are May (5), June (6), and July (7).
+It is an interesting factor to take into consideration. How many chances per year could I have a new product? In the following figure, we analyze the information from 2018 until 2022 and cross it with the most popular subtheme, the Ultimate Collector Series. During all the years, the only months that have released products are May (5), June (6), and July (7). Now you know when to pay attention to the LEGO website to make your purchases.
 
 {% include calendar.html %}
 
@@ -78,7 +80,8 @@ Let's see it with the example of the most wanted subtheme, the [Ultimate Collect
 </small></center>
 <br>
 
-**Conclusion**
+# Conclusion
+
 take into account:
 which subtheme - pop culture rocks
 time- for how long it is available and period of the year that it is available
@@ -89,5 +92,6 @@ how it price can go up through time
 
 If you want to learn more: <br>
 [Download the DataSet here](https://mostwiedzy.pl/en/open-research-data/data-on-lego-sets-release-dates-and-retail-prices-combined-with-aftermarket-transaction-prices-betwe,10210741381038465-0) <br>
-[Brickeconomy, the economy of LEGO](https://www.brickeconomy.com/)
+[Brickeconomy, the economy of LEGO](https://www.brickeconomy.com/) <br>
+[LEGO website](https://www.lego.com/da-dk)
 <br>
