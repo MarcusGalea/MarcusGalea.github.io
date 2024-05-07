@@ -48,6 +48,7 @@ Themes can be pretty big, so we wanted to analyze the subthemes and discover the
 <br>
 If we look into the top 20 subthemes, we can see how the top three are inside Star Wars theme, such as the Ultimate Collector Series, Episode I, or The Clone Wars. This result can't surprise you if you remember our previous graph.
 <br>
+<br>
 
 **How many realizes LEGO have per year?**
 
@@ -60,6 +61,7 @@ It is an interesting factor to take into consideration. How many chances per yea
 
 As we can see in the figure, the only months that have released products are May (5), June (6), and July (7). However, there are fewer releases each year than in the previous one. According to our analysis, 2018 is the year with the most releases. Now you know when to pay attention to the LEGO website to make your purchases.
 <br>
+<br>
 
 **How is my time window?**
 
@@ -71,6 +73,7 @@ Another interesting factor to take into account is the amount of time you have t
 
 Observing the graph, we can see how the average to buy a product is around 2-3 years, with the clear exception of [Death Star](https://www.brickeconomy.com/set/10188-1/lego-star-wars-death-star), which was realized in 2008 and was available for many years.
 
+<br>
 <br>
 
 **How much can a product's price change?**
