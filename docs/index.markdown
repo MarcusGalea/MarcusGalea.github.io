@@ -23,7 +23,7 @@ If we compare the popularity of themes, we can see how we have a main one. It is
 
 {% include theme.html %}
 
-<center><small>Figure 2: comparative graph between ownedyBy and wantedBy themes</small></center>
+<center><small>Figure 2: interactive graph between ownedyBy and wantedBy themes</small></center>
 <br>
 <br>
 
@@ -35,7 +35,7 @@ We wanted to analyze the subthemes and discover which ones are the most wanted c
 
 {% include subtheme.html %}
 
-<center><small>Figure 3: comparative graph between ownedyBy and wantedBy top 20 subthemes</small></center>
+<center><small>Figure 3: interactive graph between ownedyBy and wantedBy top 20 subthemes</small></center>
 <br>
 If we look into the top 20 subthemes with the highest difference between owned and wanted, we can see how the top three are inside Star Wars theme, such as the Ultimate Collector Series, Episode I, or The Clone Wars.
 
@@ -44,19 +44,8 @@ If we look into the top 20 subthemes with the highest difference between owned a
 txt
 
 {% include calender_2018.html %}
-{% include calender_2019.html %}
-{% include calender_2020.html %}
 
 <center><small>Figure x: comparative graph </small></center>
-<br>
-
-**How much can a product's price change?**
-
-Let's see it with the example of the most wanted subtheme, the [Ultimate Collector Series](https://www.brickeconomy.com/sets/theme/star-wars/subtheme/ultimate-collector-series), inside the Star Wars theme. We can take the example of the [Assault on Hoth](https://www.brickeconomy.com/set/75098-1/lego-star-wars-assault-on-hoth) or [Slave I](https://www.brickeconomy.com/set/75060-1/lego-star-wars-slave-i), inside the subtheme Ultimate Collector Series, they were realized in 2016 and 2015 respectively. Now, both are retired, with an average annual growth of 7.5% and 17.5%.
-<br>
-{% include prices.html %}
-
-<center><small>Figure 4: comparative price graph of the subtheme Ultimate Collector Series</small></center>
 <br>
 
 **How is my time window?**
@@ -72,7 +61,20 @@ Observing the graph, we can see how the average to buy a product is around 2-3 y
 <br>
 <br>
 
+**How much can a product's price change?**
+
+Let's see it with the example of the most wanted subtheme, the [Ultimate Collector Series](https://www.brickeconomy.com/sets/theme/star-wars/subtheme/ultimate-collector-series), inside the Star Wars theme. We can take the example of the [Assault on Hoth](https://www.brickeconomy.com/set/75098-1/lego-star-wars-assault-on-hoth) or [Slave I](https://www.brickeconomy.com/set/75060-1/lego-star-wars-slave-i), inside the subtheme Ultimate Collector Series, they were realized in 2016 and 2015 respectively. Now, both are retired, with an average annual growth of 7.5% and 17.5%.
+<br>
+{% include prices.html %}
+
+<center><small>Figure 4: comparative price graph of the subtheme Ultimate Collector Series</small></center>
+<br>
+
 **Conclusion**
+take into account:
+which subtheme - pop culture rocks
+time- for how long it is available and period of the year that it is available
+how it price can go up through time
 
 <br>
 <br>
