@@ -36,7 +36,7 @@ How can you find some of these gems? Let's start talking about popularity. If we
 
 **Which subthemes would be the most wanted?**
 
-We wanted to analyze the subthemes and discover which ones are the most wanted compared to the number of people who own them. These parameters could potentially increase the price of a particular set in the future.
+Themes can be pretty big, so we wanted to analyze the subthemes and discover the most wanted ones. However, the amount of subthemes was too large to compare them. That's why we selected the top 20 subthemes with the highest difference between owned and wanted. These parameters could potentially increase the price of a particular set in the future!
 
  <!-- https://github.com/MarcusGalea/MarcusGalea.github.io/tree/master/subtheme.html -->
 
@@ -46,7 +46,7 @@ We wanted to analyze the subthemes and discover which ones are the most wanted c
 (Select and deselect by clicking on the legend on the top right part of the graph)
 </small></center>
 <br>
-If we look into the top 20 subthemes with the highest difference between owned and wanted, we can see how the top three are inside Star Wars theme, such as the Ultimate Collector Series, Episode I, or The Clone Wars.
+If we look into the top 20 subthemes, we can see how the top three are inside Star Wars theme, such as the Ultimate Collector Series, Episode I, or The Clone Wars. This result can't surprise you if you remember our previous graph.
 <br>
 
 **How many realizes LEGO have per year?**
