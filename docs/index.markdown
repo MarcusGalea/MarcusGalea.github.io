@@ -5,6 +5,10 @@
 layout: home
 ---
 
+## LEARN HOW TO BUY LEGO
+
+# Introduction
+
 <small>
 Course responsible: Sune Lehmann Jørgensen_ <br>
 _DTU - Technical University of Denmark_
