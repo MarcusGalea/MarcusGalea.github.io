@@ -60,7 +60,7 @@ plot
 <br>
 <br>
 
-References:
+If you want to learn more:
 [Download the DataSet here](https://mostwiedzy.pl/en/open-research-data/data-on-lego-sets-release-dates-and-retail-prices-combined-with-aftermarket-transaction-prices-betwe,10210741381038465-0)
 
 <br>
