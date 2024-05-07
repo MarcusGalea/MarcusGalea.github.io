@@ -19,16 +19,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Cracking the Code: What Makes a LEGO Set Sell?"
-email: s194336@dtu.dk 
+email: s194336@dtu.dk
   s217151@dtu.dk
   s230249@dtu.dk
-  
+
 description: >- # this means to ignore newlines until "baseurl:"
   Project developed for the course Social Graphs and Interactions, DTU. The project aims to analyze the factors that influence the sales of LEGO sets.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username: jekyll
+# twitter_username: jekyllrb
+# github_username: jekyll
 
 # Build settings
 theme: minima
