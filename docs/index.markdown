@@ -41,7 +41,7 @@ If we look into the top 20 subthemes with the highest difference between owned a
 
 **How much can a product's price change?**
 
-Let's see it with the example of the most wanted subtheme, the Ultimate Collector Series, inside the Star Wars theme. We can take the example of the [Assault on Hoth](https://www.brickeconomy.com/set/75098-1/lego-star-wars-assault-on-hoth) or [Slave I](https://www.brickeconomy.com/set/75060-1/lego-star-wars-slave-i), inside the subtheme Ultimate Collector Series, they were realized in 2016 and 2015 respectively. Now, both are retired, with an average annual growth of 7.5% and 17.5%.
+Let's see it with the example of the most wanted subtheme, the [Ultimate Collector Series](https://www.brickeconomy.com/sets/theme/star-wars/subtheme/ultimate-collector-series), inside the Star Wars theme. We can take the example of the [Assault on Hoth](https://www.brickeconomy.com/set/75098-1/lego-star-wars-assault-on-hoth) or [Slave I](https://www.brickeconomy.com/set/75060-1/lego-star-wars-slave-i), inside the subtheme Ultimate Collector Series, they were realized in 2016 and 2015 respectively. Now, both are retired, with an average annual growth of 7.5% and 17.5%.
 <br>
 {% include prices.html %}
 
@@ -50,11 +50,13 @@ Let's see it with the example of the most wanted subtheme, the Ultimate Collecto
 
 **How is my time window?**
 
-Another interesting factor to take into account is the amount of time you have to buy the product for its original price. Let's take a look at the example on Figure 5, where we can see the time window where the products of the most wanted subtheme were available and by country.
+Another interesting factor to take into account is the amount of time you have to buy the product for its original price. Let's take a look at the example in Figure 5, where we can see the time window in which the products of the most wanted subtheme were available and by country.
 {% include timewindow.html %}
 
 <center><small>Figure 5: time window were a product of Ultimate Collector Series was available</small></center>
 <br>
+
+Observing the graph, we can see how the average to buy a product is around 2-3 years, with the clear exception of [Death Star](https://www.brickeconomy.com/set/10188-1/lego-star-wars-death-star), which was realized in 2008 and was available for many years.
 
 <br>
 <br>
