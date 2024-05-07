@@ -13,6 +13,11 @@ We're diving headfirst into a massive dataset, which contains almost 2000 Lego s
 
 ![alt text1](https://github.com/MarcusGalea/MarcusGalea.github.io/blob/master/Lego-Logo.png)
 
+If we compare popularity between themes, we can see how we have a main one. It being Star Wars
+
+https://github.com/MarcusGalea/MarcusGalea.github.io/tree/master/theme.html
+{% include theme.html %}
+
 <br>
 text 1
 introplots
