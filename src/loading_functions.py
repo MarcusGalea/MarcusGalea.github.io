@@ -50,6 +50,16 @@ def preprocess_data(df: pd.DataFrame, include_monthly = False) -> pd.DataFrame:
     #drop column 'PriceMonthPLN' and urlRetailPriceHistoryPLN
     include_cols = ['urlRetailPriceHistoryPLN'] if include_monthly else ['urlRetailPriceHistoryPLN','PriceMonthPLN'] 
     df = df.drop(columns=include_cols)
+    
+    #Get the interesting columns of the dataset
+    countries = ["US", "UK", "CA", "DE", "PL"]
+    conversion_to_euro = {"US": 0.85, "UK": 1.17, "CA": 0.68, "PL": 0.23, "DE": 1}
+    retail_price_columns = [country + "_retail_price" for country in countries]
+    #date columns
+    for country in countries:
+        df[country + "_retail_price"] = df["PriceMonthPLN"] * conversion_to_euro[country]
+        if country == "PL":
+            df["PriceMonthPLN"] = df["PriceMonthPLN"].astype(float) * conversion_to_euro[country]
     #merge repeated rows
     if not include_monthly:
         df = df.groupby('setID').first().reset_index()

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Lego projectfinal",
+			"path": ".."
+		},
+		{
+			"name": "data",
+			"path": "../../lego/data"
+		}
+	],
+	"settings": {}
+}
