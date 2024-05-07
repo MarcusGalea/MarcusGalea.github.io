@@ -50,6 +50,7 @@ We can take the example of the [Death Star II (10143)](https://www.brickeconomy.
 <br>
 
 **How is my time window?**
+
 Another interesting factor to take into account is the amount of time you have to buy the product for its original price. Let's take a look at the example on Figure 5, where we can see the time window where the products of the most wanted subtheme were available and by country.
 {% include timewindow.html %}
 
