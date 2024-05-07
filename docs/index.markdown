@@ -19,14 +19,16 @@ We're diving headfirst into a massive dataset, which contains almost 2000 Lego s
 
 **How popular can a set be?**
 
-If we compare popularity between themes, we can see how we have a main one. It being [Star Wars](https://www.brickeconomy.com/sets/theme/star-wars), that has 937 different sets inside.
+If we compare the popularity of themes, we can see how we have a main one. It is [Star Wars](https://www.brickeconomy.com/sets/theme/star-wars), which has 49 subthemes and 937 different sets inside, and there is a considerable difference between the number of people who own a product of this theme and the number of people who want it.
 
 {% include theme.html %}
 
 <center><small>Figure 2: comparative graph between ownedyBy and wantedBy themes</small></center>
 <br>
 <br>
-If we take a look into the top 20 subthemes that have the highest difference between ownedyBy and wantedBy, we can see how the some of the top ones are inside this theme, such as: Ultimate Collector Series, Episode I and II or The Clone Wars
+
+**Which subthemes would be the most wanted?**
+We wanted to analyze the subthemes and discover which ones are the most wanted compared to the number of people who own them. These parameters could potentially increase the price of a particular set in the future.
 
  <!-- https://github.com/MarcusGalea/MarcusGalea.github.io/tree/master/subtheme.html -->
 
@@ -34,8 +36,9 @@ If we take a look into the top 20 subthemes that have the highest difference bet
 
 <center><small>Figure 3: comparative graph between ownedyBy and wantedBy top 20 subthemes</small></center>
 <br>
+If we look into the top 20 subthemes with the highest difference between owned and wanted, we can see how some of the top ones are inside this theme, such as the Ultimate Collector Series, Episodes I and II, or The Clone Wars.
 
-text 3 subthemes calendar
+text 3 subthemes calendar or not
 plot
 <br>
 text 4 example of an specific market
