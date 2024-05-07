@@ -17,7 +17,8 @@ We're diving headfirst into a massive dataset, which contains almost 2000 Lego s
 
 ![Alt text](https://github.com/MarcusGalea/MarcusGalea.github.io/blob/6e62815e484502c936f89d37d1bc4436021465cf/Lego-Logo.png) -->
 
-![Alt text](https://www.logodesignlove.com/wp-content/uploads/2017/07/lego-logo-13.jpg)
+<!-- ![Alt text](https://www.logodesignlove.com/wp-content/uploads/2017/07/lego-logo-13.jpg) -->
+<img src="https://www.logodesignlove.com/wp-content/uploads/2017/07/lego-logo-13.jpg" width="100" height="50">
 
 <!-- <img src="/docs/Logo.png" width="400" height="500"> -->
 
