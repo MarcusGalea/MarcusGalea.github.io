@@ -48,12 +48,14 @@ We can take the example of the [Death Star II (10143)](https://www.brickeconomy.
 
 <center><small>Figure 4: comparative price graph of the subtheme Ultimate Collector Series</small></center>
 <br>
-text 3 subthemes calendar or not
-plot
+
+**How is my time window?**
+
+Another interesting factor to take into account is the amount of time you have to buy the product for its original price. Let's take a look at the example on Figure 5, where we can see the time window where the products of the most wanted subtheme were available and by country.
+{% include timewindow.html %}
+
+<center><small>Figure 5: time window were a product of Ultimate Collector Series was available</small></center>
 <br>
-text 4 example of an specific market
-polish prices - going up - going down
-plot
 
 <br>
 <br>
@@ -63,7 +65,7 @@ plot
 <br>
 <br>
 
-If you want to learn more:
-[Download the DataSet here](https://mostwiedzy.pl/en/open-research-data/data-on-lego-sets-release-dates-and-retail-prices-combined-with-aftermarket-transaction-prices-betwe,10210741381038465-0)
-
+If you want to learn more: <br>
+[Download the DataSet here](https://mostwiedzy.pl/en/open-research-data/data-on-lego-sets-release-dates-and-retail-prices-combined-with-aftermarket-transaction-prices-betwe,10210741381038465-0) <br>
+[Brickeconomy, the economy of LEGO](https://www.brickeconomy.com/)
 <br>
