@@ -6,6 +6,8 @@ layout: home
 title: Final Project
 ---
 
+#
+
 # Introduction
 
 Have you ever come across statements like: ["LEGO sets have proven to be a stable investment over time, with average returns of 10% annually, which is higher than stocks, bonds, gold, and many other collectible items."](https://www.nerdcube.eu/guides/investing-in-lego/#:~:text=some%20extra%20cash.-,LEGO%20sets%20have%20proven%20to%20be%20a%20stable%20investment%20over,passion%20and%20collecting%20for%20profit) or perhaps you've heard the bold claim that ["Investing in Lego is more lucrative than gold, art and wine."](https://www.theguardian.com/lifeandstyle/2021/dec/10/investing-in-lego-more-lucrative-than-gold-study-suggests). These intriguing snippets certainly catch our eye, making us wonder: are these claims brick-solid or just plastic fantastic? Let's dive in and crack the code on whether LEGO sets truly hold the keys to financial success.
@@ -17,6 +19,7 @@ Have you ever come across statements like: ["LEGO sets have proven to be a stabl
 <center><small>Figure 1: LEGO Logo</small></center>
 <br>
 We're diving headfirst into a massive dataset, which contains almost 2000 Lego sets from 2018 to 2023, comparing different LEGO products across different time periods and countries, including Germany, Canada, Poland, the United Kingdom, and the United States. We're uncovering insights into product demand, ownership trends, release timings throughout the year, and the duration a product remains available at the official LEGO store before hitting retail shelves. Join us on this adventure as we uncover fascinating patterns in this incredible game. Who knows, you might just discover the next set that proves to be a safe investment!
+<br>
 
 **How popular can a set be?**
 
@@ -43,14 +46,15 @@ We wanted to analyze the subthemes and discover which ones are the most wanted c
 </small></center>
 <br>
 If we look into the top 20 subthemes with the highest difference between owned and wanted, we can see how the top three are inside Star Wars theme, such as the Ultimate Collector Series, Episode I, or The Clone Wars.
+<br>
 
 **How many chances do I have per year to buy a new product?**
 
-It is an interesting factor to take into consideration. How many chances per year could I have a new product? In the analyzed data, we have the information from 2018 until 2022. During all the years, the only months that have been realized are May (5), June (6), and July (7).
+It is an interesting factor to take into consideration. How many chances per year could I have a new product? In the analyzed data, we have the information from 2018 until 2022. During all the years, the only months that have been released are May (5), June (6), and July (7).
 
 {% include calendar.html %}
 
-<center><small>Figure 4: comparative graph </small></center>
+<center><small>Figure 4: comparative calendar graph between the subtheme Ultimate Collector Series and released dates </small></center>
 <br>
 
 **How is my time window?**
@@ -63,7 +67,6 @@ Another interesting factor to take into account is the amount of time you have t
 
 Observing the graph, we can see how the average to buy a product is around 2-3 years, with the clear exception of [Death Star](https://www.brickeconomy.com/set/10188-1/lego-star-wars-death-star), which was realized in 2008 and was available for many years.
 
-<br>
 <br>
 
 **How much can a product's price change?**
