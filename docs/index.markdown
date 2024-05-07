@@ -22,7 +22,7 @@ https://github.com/MarcusGalea/MarcusGalea.github.io/tree/master/theme.html
 text 1
 introplots
 <br>
-text 2
+If we take a look into the top 20 subthemes that have the highest difference between ownedyBy and wantedBy, we can see how the some of the top ones are inside this theme, such as: Ultimate Collector Series, Episode I and II,
 
 https://github.com/MarcusGalea/MarcusGalea.github.io/tree/master/subtheme.html
 {% include subtheme.html %}
