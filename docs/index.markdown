@@ -11,7 +11,7 @@ Have you ever come across statements like: ["LEGO sets have proven to be a stabl
 
 We're diving headfirst into a massive dataset, which contains almost 2000 Lego sets from 2018 to 2023, comparing different LEGO products across different time periods and countries, including Germany, Canada, Poland, the United Kingdom, and the United States. We're uncovering insights into product demand, ownership trends, release timings throughout the year, and the duration a product remains available at the official LEGO store before hitting retail shelves. Join us on this adventure as we uncover fascinating patterns in this incredible game. Who knows, you might just discover the next set that proves to be a safe investment!
 
-![alt text1](https://github.com/MarcusGalea/MarcusGalea.github.io/blob/master/Lego-Logo.png)
+![alt text1](https://github.com/MarcusGalea/MarcusGalea.github.io/blob/master/Logo.png)
 
 If we compare popularity between themes, we can see how we have a main one. It being Star Wars, that has [937](https://www.brickeconomy.com/sets/theme/star-wars) different sets inside.
 
@@ -48,17 +48,3 @@ References:
 [Download the DataSet here](https://mostwiedzy.pl/en/open-research-data/data-on-lego-sets-release-dates-and-retail-prices-combined-with-aftermarket-transaction-prices-betwe,10210741381038465-0)
 
 <br>
-Contribution table:
-
-- Explainatory notebook
-- Website creation
-- Website content
-- Visualizations
-- Research
-
-<small>
-Course responsible: Sune Lehmann Jørgensen_ <br>
-_DTU - Technical University of Denmark_
-_Course responsible: Sune Lehmann Jørgensen_ <br>
-The Team- Marcus Galea Jacobsen  s194336, Lidia Perpiñian s217151, Paraskevi Keramari s230249 <br>
-</small>
