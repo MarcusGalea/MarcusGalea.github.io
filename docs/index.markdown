@@ -49,7 +49,7 @@ txt
 
 {% include calender_2018.html %}
 
-<center><small>Figure x: comparative graph </small></center>
+<center><small>Figure 4: comparative graph </small></center>
 <br>
 
 **How is my time window?**
@@ -71,7 +71,9 @@ Let's see it with the example of the most wanted subtheme, the [Ultimate Collect
 <br>
 {% include prices.html %}
 
-<center><small>Figure 4: comparative price graph of the subtheme Ultimate Collector Series</small></center>
+<center><small>Figure 6: interactive price graph of the subtheme Ultimate Collector Series<br>
+(Select and deselect by clicking on the legend on the top right part of the graph)
+</small></center>
 <br>
 
 **Conclusion**
